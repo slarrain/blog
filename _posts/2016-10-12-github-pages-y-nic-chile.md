@@ -3,6 +3,7 @@ layout: post
 title: Github pages y NIC Chile
 Introduction: Como configurar NIC Chile con Github pages
 comments: true
+category: spanish
 ---
 Para este post, quiero explicar como configurar una página o sitio web creado en github pages con un dominio ".cl" adquirido en NIC Chile.
 

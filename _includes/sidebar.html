@@ -4,6 +4,10 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+
+    <br>
+    <div class="smallerCircularProfilePic"></div>
+
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
@@ -25,8 +29,8 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/index_spanish">Posts en Español</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/index_english">Posts in English</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 

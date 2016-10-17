@@ -466,6 +466,40 @@ a.pagination-item:hover {
 }
 
 
+/* [START] Profile Picture */
+.circularProfilePic {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../../imgs/sle_about.jpg) no-repeat;
+	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.smallerCircularProfilePic {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	background: url(../../imgs/sle_small.jpg) no-repeat;
+	/*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
+
+	display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+
 /*
  * Reverse layout
  *
