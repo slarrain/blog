@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+¡Hola! Mi nombre es Santiago Larrain y soy un _Data Scientist_. Mi pasión es analizar datos científicamente e intentar hacer sentido de ellos.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Mis proyectos casi siempre incluyen crear __Modelos Predictivos para obtener información relevante desde la Data usando técnicas de Machine Learning__. Pero mis intereses se entrecruzan con la programación en general, Linux, Big Data, Data Mining, Data Visualization y, en general, distintas áreas de la tecnología.
 
-There are currently two themes built on Poole:
+Tengo un [Master of Science in Computational Analysis and Public Policy](https://capp.sites.uchicago.edu/) de la Universidad de Chicago. Ahí pasé los mejores 2 años de mi vida, estudiando Políticas Públicas, Computación y Data Science. Antes de eso, estuve varios años en el Ministerio de Educación. Además, soy Abogado de la Universidad Católica de Chile.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Detesto vivir en la ciudad y adoro la vida en el campo. Soy un adicto al ancho de banda. Odio el sol y un dia de lluvia me mejora el ánimo.
